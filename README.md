@@ -1,16 +1,27 @@
-# pretium_replica
+# Pretium Replica
 
-A new Flutter project.
+A modern Flutter-based fintech application designed to provide seamless digital financial services, including account management, transactions, and analytics.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features
+- User onboarding and authentication
+- Account overview and balance tracking
+- Transaction history and analytics
+- Secure payments and transfers
+- Responsive UI for Android and iOS
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+[App Screenshot](Screenshot_20250524_201659.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Android Studio or Xcode (for iOS)
+- A device or emulator
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ANTO-REMY/fintech-app.git
+   cd flutter-fintech\ app
+   ```
