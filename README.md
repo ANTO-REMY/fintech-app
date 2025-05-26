@@ -1,7 +1,8 @@
-# Pretium Replica
+# Fintech App (Pretium Replica)
 
 A modern Flutter-based fintech application designed to provide seamless digital financial services, including account management, transactions, and analytics.
-
+I created this when pretium were seeking a fullstack developer...All they wanted was a replica of their already existing platform has less backend integrated...
+Ill continue upscaling it with time 
 
 ## Features
 - User onboarding and authentication
@@ -10,8 +11,6 @@ A modern Flutter-based fintech application designed to provide seamless digital 
 - Secure payments and transfers
 - Responsive UI for Android and iOS
 
-## Screenshots
-[App Screenshot](Screenshot_20250524_201659.jpg)
 
 
 ### Prerequisites
